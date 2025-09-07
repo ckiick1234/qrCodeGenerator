@@ -71,7 +71,7 @@ const styles = {
     marginTop: '20px',
     border: 'none',
     borderRadius: '5px',
-    backgroundColor: '#0070f3',
+    backgroundColor: '#00cbf3ff',
     color: 'white',
     cursor: 'pointer',
   },
